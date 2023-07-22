@@ -1,0 +1,7 @@
+export { default as Navbar } from './Navbar'
+export { default as Footer } from './Footer'
+export { default as CategoryCard } from './CategoryCard'
+export { default as SliderComponent } from './Slider'
+export { default as ProjectCard } from './ProjectCard'
+export { default as GigCard } from './GigCard'
+export { default as Slider } from './Slider'
